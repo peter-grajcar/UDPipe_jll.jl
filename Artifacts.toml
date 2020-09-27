@@ -5,7 +5,7 @@ git-tree-sha1 = "2308d66faf31b4fcf883c582601bcbe681ee10e8"
 os = "macos"
 
     [[UDPipe.download]]
-    sha256 = "f9a1bf206009185434bb68171163b0488f161d19d253022f65b23c5fbf11563f"
+    sha256 = "27e2ecb7435b4eb9701034721f58ca2acb965911fe08eef7c5f1941c605d4551"
     url = "https://github.com/peter-grajcar/UDPipe_Julia_Wrapper/releases/download/v0.1.0/UDPipe.v0.1.0.x86_64-apple-darwin14-cxx11.tar.gz"
 [[UDPipe]]
 arch = "x86_64"
@@ -15,5 +15,5 @@ libc = "glibc"
 os = "linux"
 
     [[UDPipe.download]]
-    sha256 = "2d693027b09414f2f053f278e7a40f1e7fc5bb059bf6ddb623524abd7cb597f0"
+    sha256 = "e6108849f441d7e13cf08797244bc916fa7725aa56b25ed55a380163bddee8c2"
     url = "https://github.com/peter-grajcar/UDPipe_Julia_Wrapper/releases/download/v0.1.0/UDPipe.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
