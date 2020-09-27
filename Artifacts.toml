@@ -1,19 +1,19 @@
 [[UDPipe]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8ce599dd36e91c1a640b80a1338a33c41d9935f2"
+git-tree-sha1 = "c05f5d1ae7436136d80bb02427bd397d28568e01"
 os = "macos"
 
     [[UDPipe.download]]
-    sha256 = "27e2ecb7435b4eb9701034721f58ca2acb965911fe08eef7c5f1941c605d4551"
+    sha256 = "4aca7038881a7574cb22f6b9a81f4c5fc6acf284624a03f8db3c8b069a705be8"
     url = "https://github.com/peter-grajcar/UDPipe_Julia_Wrapper/releases/download/v0.1.0/UDPipe.v0.1.0.x86_64-apple-darwin14-cxx11.tar.gz"
 [[UDPipe]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a5049c3084b76743693d4a71e4036d0ffa802212"
+git-tree-sha1 = "c7d5e72232b8922a71ee8b5a7e9929cbe58a5cde"
 libc = "glibc"
 os = "linux"
 
     [[UDPipe.download]]
-    sha256 = "e6108849f441d7e13cf08797244bc916fa7725aa56b25ed55a380163bddee8c2"
+    sha256 = "9efacfe88df4acc3d3f271fed582627a1583a15f620ca4fdc344da67a08a2e4b"
     url = "https://github.com/peter-grajcar/UDPipe_Julia_Wrapper/releases/download/v0.1.0/UDPipe.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
